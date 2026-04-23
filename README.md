@@ -2,9 +2,9 @@
 
 ## 1. 墨水屏相册
 
-一直很感谢在儿子托班时带他的主班老师，手搓了一个相册送她，里面放了她和小朋友们在一起的瞬间。
+孩很小就上托班了，一直很感谢在儿子托班时带他的主班老师，手搓了一个相册送她，里面放了她和小朋友们在一起的瞬间。
 
-![沙滩](./pics/eink.JPG "应用图标")
+![沙滩](./pics/eink.JPG "eink")
 
 ## 2. 讲故事小网站
 
@@ -18,9 +18,13 @@ https://hudsonstoryteller.netlify.app/
 
 博客地址：https://blog.csdn.net/guodong_hu
 
+![franky](./pics/franky.jpg)
+
 ## 4. EPS32 触摸屏开发
 
 2026年初Claw相关比较火，尝试把小龙虾装进ESP32中
+
+![claw](./pics/myclaw.jpg)
 
 ## 5. 多通道召回对话记忆系统（专利）
 
